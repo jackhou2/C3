@@ -53,9 +53,6 @@ C3 is a python script, and it can be run as a python script using the format `py
 
 ## Credits
 
-Authors:
-
-
 Jack Hou
 
 Greg Puleo
